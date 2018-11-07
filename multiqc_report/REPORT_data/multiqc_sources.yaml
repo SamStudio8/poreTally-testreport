@@ -1,0 +1,11 @@
+Jellyfish:
+  all_sections:
+    flye.count: /home/ubuntu/pt/analysis/summary/jellyfish/flye.count
+    minimap2_miniasm.count: /home/ubuntu/pt/analysis/summary/jellyfish/minimap2_miniasm.count
+    reference.count: /home/ubuntu/pt/analysis/summary/jellyfish/reference.count
+    smartdenovo.count: /home/ubuntu/pt/analysis/summary/jellyfish/smartdenovo.count
+QUAST:
+  all_sections:
+    flye: /home/ubuntu/pt/analysis/summary/quast/report.tsv
+    minimap2_miniasm: /home/ubuntu/pt/analysis/summary/quast/report.tsv
+    smartdenovo: /home/ubuntu/pt/analysis/summary/quast/report.tsv

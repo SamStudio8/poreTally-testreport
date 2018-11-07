@@ -1,0 +1,190 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+2718587	2783361	138375	203047	pa_ERS666351_SC_contig000001	utg0_length_244388_nodes_328	90.08		True
+CONTIG	utg0_length_244388_nodes_328	244388	correct_unaligned
+5390190	5409411	116109	96814	pa_ERS666351_SC_contig000001	utg1_length_838434_nodes_1239	91.29		True
+unknown
+5355908	5360317	150011	145614	pa_ERS666351_SC_contig000001	utg1_length_838434_nodes_1239	90.02		True
+unknown
+5336783	5342041	168997	163711	pa_ERS666351_SC_contig000001	utg1_length_838434_nodes_1239	90.61		True
+unknown
+5294805	5304738	210583	200686	pa_ERS666351_SC_contig000001	utg1_length_838434_nodes_1239	91.54		True
+unknown
+5252735	5272875	252026	231937	pa_ERS666351_SC_contig000001	utg1_length_838434_nodes_1239	90.16		True
+unknown
+5032319	5075530	470559	427373	pa_ERS666351_SC_contig000001	utg1_length_838434_nodes_1239	90.4		True
+unknown
+4994118	4999351	508296	503078	pa_ERS666351_SC_contig000001	utg1_length_838434_nodes_1239	90.6		True
+unknown
+4861686	4877928	639237	622975	pa_ERS666351_SC_contig000001	utg1_length_838434_nodes_1239	90.13		True
+unknown
+4772703	4820698	728175	680181	pa_ERS666351_SC_contig000001	utg1_length_838434_nodes_1239	90.52		True
+unknown
+4715864	4743405	784977	757334	pa_ERS666351_SC_contig000001	utg1_length_838434_nodes_1239	90.21		True
+unknown
+CONTIG	utg1_length_838434_nodes_1239	838434	mis_unaligned
+244367	251829	23729	31149	pa_ERS666351_SC_contig000001	utg2_length_206878_nodes_289	90.93		True
+unknown
+317372	333254	96078	111959	pa_ERS666351_SC_contig000001	utg2_length_206878_nodes_289	90.33		True
+unknown
+CONTIG	utg2_length_206878_nodes_289	206878	mis_unaligned
+3996869	4007095	20967	10713	pa_ERS666351_SC_contig000001	utg3_length_198000_nodes_296	90.76		True
+unknown
+3969464	3975214	47764	41994	pa_ERS666351_SC_contig000001	utg3_length_198000_nodes_296	91.45		True
+unknown
+3929207	3930453	86572	85315	pa_ERS666351_SC_contig000001	utg3_length_198000_nodes_296	90.55		True
+unknown
+CONTIG	utg3_length_198000_nodes_296	198000	mis_unaligned
+1904333	1919125	54663	69437	pa_ERS666351_SC_contig000001	utg4_length_530084_nodes_733	92.81		True
+unknown
+1925480	1946955	75594	97115	pa_ERS666351_SC_contig000001	utg4_length_530084_nodes_733	90.61		True
+unknown
+1947263	1961116	97126	110983	pa_ERS666351_SC_contig000001	utg4_length_530084_nodes_733	90.2		True
+unknown
+1968318	1978526	117751	128006	pa_ERS666351_SC_contig000001	utg4_length_530084_nodes_733	90.44		True
+unknown
+1978835	1987911	128025	137159	pa_ERS666351_SC_contig000001	utg4_length_530084_nodes_733	91.15		True
+unknown
+2092336	2097432	239236	244342	pa_ERS666351_SC_contig000001	utg4_length_530084_nodes_733	91.56		True
+unknown
+2097495	2098032	244401	244943	pa_ERS666351_SC_contig000001	utg4_length_530084_nodes_733	91.2		True
+unknown
+2237258	2239735	382801	385281	pa_ERS666351_SC_contig000001	utg4_length_530084_nodes_733	91.06		True
+unknown
+CONTIG	utg4_length_530084_nodes_733	530084	mis_unaligned
+3355329	3364212	8903	44	pa_ERS666351_SC_contig000001	utg5_length_253872_nodes_335	90.16		True
+unknown
+3347727	3354923	16442	9157	pa_ERS666351_SC_contig000001	utg5_length_253872_nodes_335	90.55		True
+unknown
+3262607	3262793	101013	100820	pa_ERS666351_SC_contig000001	utg5_length_253872_nodes_335	91.79		True
+unknown
+3247798	3260482	115789	103049	pa_ERS666351_SC_contig000001	utg5_length_253872_nodes_335	91.99		True
+unknown
+3241895	3247638	121621	115859	pa_ERS666351_SC_contig000001	utg5_length_253872_nodes_335	92.07		True
+unknown
+CONTIG	utg5_length_253872_nodes_335	253872	mis_unaligned
+1684699	1709924	133229	107855	pa_ERS666351_SC_contig000001	utg7_length_376088_nodes_600	90.45		True
+unknown
+1546533	1578296	267384	235578	pa_ERS666351_SC_contig000001	utg7_length_376088_nodes_600	90.84		True
+unknown
+1493360	1499317	320178	314252	pa_ERS666351_SC_contig000001	utg7_length_376088_nodes_600	91.54		True
+unknown
+1486416	1493217	327098	320293	pa_ERS666351_SC_contig000001	utg7_length_376088_nodes_600	91.84		True
+unknown
+1474497	1475483	338770	337811	pa_ERS666351_SC_contig000001	utg7_length_376088_nodes_600	90.9		True
+unknown
+1437074	1474350	376066	338847	pa_ERS666351_SC_contig000001	utg7_length_376088_nodes_600	90.25		True
+unknown
+CONTIG	utg7_length_376088_nodes_600	376088	mis_unaligned
+717007	732056	35	15087	pa_ERS666351_SC_contig000001	utg8_length_289798_nodes_422	90.29		True
+unknown
+732270	735066	15284	18050	pa_ERS666351_SC_contig000001	utg8_length_289798_nodes_422	91.54		True
+unknown
+735207	751401	18082	34192	pa_ERS666351_SC_contig000001	utg8_length_289798_nodes_422	91.0		True
+unknown
+751770	768936	34213	51394	pa_ERS666351_SC_contig000001	utg8_length_289798_nodes_422	90.69		True
+unknown
+799900	809082	82005	91270	pa_ERS666351_SC_contig000001	utg8_length_289798_nodes_422	90.87		True
+unknown
+867351	876265	149065	157926	pa_ERS666351_SC_contig000001	utg8_length_289798_nodes_422	90.09		True
+unknown
+876820	879396	157988	160572	pa_ERS666351_SC_contig000001	utg8_length_289798_nodes_422	91.54		True
+unknown
+929486	936901	210108	217551	pa_ERS666351_SC_contig000001	utg8_length_289798_nodes_422	90.57		True
+unknown
+993875	1007688	273912	287694	pa_ERS666351_SC_contig000001	utg8_length_289798_nodes_422	90.43		True
+unknown
+1007820	1009772	287803	289764	pa_ERS666351_SC_contig000001	utg8_length_289798_nodes_422	91.74		True
+unknown
+CONTIG	utg8_length_289798_nodes_422	289798	mis_unaligned
+CONTIG	utg9_length_259764_nodes_349	259764	unaligned
+CONTIG	utg10_length_85634_nodes_116	85634	unaligned
+4569710	4571593	37575	35694	pa_ERS666351_SC_contig000001	utg11_length_261624_nodes_352	90.13		True
+CONTIG	utg11_length_261624_nodes_352	261624	correct_unaligned
+4612534	4636565	44837	20806	pa_ERS666351_SC_contig000001	utg12_length_44905_nodes_24	90.67		True
+CONTIG	utg12_length_44905_nodes_24	44905	correct
+4205245	4225786	20543	17	pa_ERS666351_SC_contig000001	utg14_length_114291_nodes_138	90.06		True
+unknown
+4143212	4169177	82361	56637	pa_ERS666351_SC_contig000001	utg14_length_114291_nodes_138	90.73		True
+unknown
+CONTIG	utg14_length_114291_nodes_138	114291	mis_unaligned
+2915550	2964072	36	48519	pa_ERS666351_SC_contig000001	utg15_length_188434_nodes_248	90.13		True
+unknown
+2997147	3020109	81059	104140	pa_ERS666351_SC_contig000001	utg15_length_188434_nodes_248	90.17		True
+unknown
+CONTIG	utg15_length_188434_nodes_248	188434	mis_unaligned
+3767197	3776978	53930	63664	pa_ERS666351_SC_contig000001	utg17_length_101281_nodes_131	91.15		True
+unknown
+3797691	3805393	83992	91669	pa_ERS666351_SC_contig000001	utg17_length_101281_nodes_131	91.86		True
+unknown
+3805490	3815094	91676	101250	pa_ERS666351_SC_contig000001	utg17_length_101281_nodes_131	90.15		True
+unknown
+CONTIG	utg17_length_101281_nodes_131	101281	mis_unaligned
+CONTIG	utg18_length_116215_nodes_136	116215	unaligned
+CONTIG	utg19_length_60451_nodes_64	60451	unaligned
+6715528	6756320	40752	30	pa_ERS666351_SC_contig000001	utg20_length_459432_nodes_678	90.13		True
+unknown
+6678356	6681928	77543	74005	pa_ERS666351_SC_contig000001	utg20_length_459432_nodes_678	91.5		True
+unknown
+6661197	6677705	94760	78201	pa_ERS666351_SC_contig000001	utg20_length_459432_nodes_678	90.98		True
+unknown
+6580863	6589426	174481	165788	pa_ERS666351_SC_contig000001	utg20_length_459432_nodes_678	91.53		True
+unknown
+6541993	6544453	212957	210485	pa_ERS666351_SC_contig000001	utg20_length_459432_nodes_678	91.75		True
+unknown
+6422954	6431851	331179	322308	pa_ERS666351_SC_contig000001	utg20_length_459432_nodes_678	91.16		True
+unknown
+CONTIG	utg20_length_459432_nodes_678	459432	mis_unaligned
+5888007	5914214	46	26247	pa_ERS666351_SC_contig000001	utg21_length_183928_nodes_267	90.32		True
+unknown
+6057344	6073195	168115	183898	pa_ERS666351_SC_contig000001	utg21_length_183928_nodes_267	91.07		True
+unknown
+CONTIG	utg21_length_183928_nodes_267	183928	mis_unaligned
+4300003	4325917	40625	14845	pa_ERS666351_SC_contig000001	utg23_length_106719_nodes_137	90.3		True
+unknown
+4233538	4259556	106699	80621	pa_ERS666351_SC_contig000001	utg23_length_106719_nodes_137	90.97		True
+unknown
+CONTIG	utg23_length_106719_nodes_137	106719	mis_unaligned
+6096397	6132934	17887	54511	pa_ERS666351_SC_contig000001	utg24_length_54542_nodes_47	90.79		True
+CONTIG	utg24_length_54542_nodes_47	54542	correct
+5579742	5581296	16	1560	pa_ERS666351_SC_contig000001	utg25_length_33999_nodes_29	90.01		True
+local misassembly
+5581794	5613784	2056	33966	pa_ERS666351_SC_contig000001	utg25_length_33999_nodes_29	91.11		True
+CONTIG	utg25_length_33999_nodes_29	33999	correct
+CONTIG	utg31_length_64647_nodes_80	64647	unaligned
+CONTIG	utg33_length_53842_nodes_39	53842	unaligned
+3620161	3649243	84555	113685	pa_ERS666351_SC_contig000001	utg36_length_170839_nodes_239	90.71		True
+unknown
+3649480	3674301	113697	138459	pa_ERS666351_SC_contig000001	utg36_length_170839_nodes_239	90.46		True
+unknown
+CONTIG	utg36_length_170839_nodes_239	170839	mis_unaligned
+2393222	2442252	48793	35	pa_ERS666351_SC_contig000001	utg37_length_48810_nodes_47	90.39		True
+CONTIG	utg37_length_48810_nodes_47	48810	correct
+CONTIG	utg38_length_62840_nodes_64	62840	unaligned
+4657840	4658299	87725	87264	pa_ERS666351_SC_contig000001	utg39_length_87756_nodes_102	91.28		True
+CONTIG	utg39_length_87756_nodes_102	87756	correct_unaligned
+2828865	2859553	30	30663	pa_ERS666351_SC_contig000001	utg49_length_80694_nodes_109	90.08		True
+CONTIG	utg49_length_80694_nodes_109	80694	correct_unaligned
+CONTIG	utg62_length_228989_nodes_312	228442	unaligned
+124390	143234	38923	20011	pa_ERS666351_SC_contig000001	utg64_length_103677_nodes_122	90.66		True
+unknown
+114667	123556	48386	39436	pa_ERS666351_SC_contig000001	utg64_length_103677_nodes_122	90.73		True
+unknown
+111229	114186	51802	48830	pa_ERS666351_SC_contig000001	utg64_length_103677_nodes_122	92.63		True
+unknown
+95492	102732	67125	59897	pa_ERS666351_SC_contig000001	utg64_length_103677_nodes_122	90.23		True
+unknown
+CONTIG	utg64_length_103677_nodes_122	103677	mis_unaligned
+CONTIG	utg67_length_46113_nodes_55	46113	unaligned
+CONTIG	utg70_length_29091_nodes_21	29091	unaligned
+1425741	1431331	5605	41	pa_ERS666351_SC_contig000001	utg71_length_118621_nodes_161	91.31		True
+unknown
+1414289	1425000	16939	6295	pa_ERS666351_SC_contig000001	utg71_length_118621_nodes_161	90.2		True
+unknown
+1328174	1350810	101525	79070	pa_ERS666351_SC_contig000001	utg71_length_118621_nodes_161	90.12		True
+unknown
+1310800	1327909	118583	101542	pa_ERS666351_SC_contig000001	utg71_length_118621_nodes_161	90.07		True
+unknown
+CONTIG	utg71_length_118621_nodes_161	118621	mis_unaligned
+2533604	2561057	31850	4452	pa_ERS666351_SC_contig000001	utg80_length_115836_nodes_166	90.47		True
+CONTIG	utg80_length_115836_nodes_166	115836	correct_unaligned
+CONTIG	utg95_length_73365_nodes_74	72690	unaligned

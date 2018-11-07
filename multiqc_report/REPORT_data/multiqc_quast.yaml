@@ -1,0 +1,147 @@
+flye:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 41.0
+  '# contigs (>= 0 bp)': 41.0
+  '# contigs (>= 1000 bp)': 41.0
+  '# contigs (>= 10000 bp)': 39.0
+  '# contigs (>= 25000 bp)': 39.0
+  '# contigs (>= 5000 bp)': 41.0
+  '# contigs (>= 50000 bp)': 34.0
+  '# indels per 100 kbp': 677.73
+  '# local misassemblies': 4.0
+  '# misassembled contigs': 1.0
+  '# misassemblies': 1.0
+  '# mismatches per 100 kbp': 132.84
+  '# unaligned contigs': 0.0
+  '# unaligned contigs_partial': 8.0
+  '# unaligned mis. contigs': 0.0
+  Duplication ratio: 1.012
+  Genome fraction (%): 95.845
+  L50: 8.0
+  L75: 17.0
+  LA50: 8.0
+  LA75: 17.0
+  LG50: 9.0
+  LG75: 18.0
+  LGA50: 9.0
+  LGA75: 18.0
+  Largest alignment: 849658.0
+  Largest contig: 850194.0
+  Misassembled contigs length: 140255.0
+  N50: 259261.0
+  N75: 121891.0
+  NA50: 259217.0
+  NA75: 118594.0
+  NG50: 249468.0
+  NG75: 119091.0
+  NGA50: 249435.0
+  NGA75: 118554.0
+  Reference GC (%): 66.17
+  Reference length: 6791333.0
+  Total aligned length: 6576114.0
+  Total length: 6620719.0
+  Total length (>= 0 bp): 6620719.0
+  Total length (>= 1000 bp): 6620719.0
+  Total length (>= 10000 bp): 6605704.0
+  Total length (>= 25000 bp): 6605704.0
+  Total length (>= 5000 bp): 6620719.0
+  Total length (>= 50000 bp): 6437812.0
+  Unaligned length: 36502.0
+minimap2_miniasm:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 36.0
+  '# contigs (>= 0 bp)': 36.0
+  '# contigs (>= 1000 bp)': 36.0
+  '# contigs (>= 10000 bp)': 36.0
+  '# contigs (>= 25000 bp)': 36.0
+  '# contigs (>= 5000 bp)': 36.0
+  '# contigs (>= 50000 bp)': 29.0
+  '# indels per 100 kbp': 3990.65
+  '# local misassemblies': 0.0
+  '# misassembled contigs': 0.0
+  '# misassemblies': 0.0
+  '# mismatches per 100 kbp': 3758.34
+  '# unaligned contigs': 10.0
+  '# unaligned contigs_partial': 26.0
+  '# unaligned mis. contigs': 12.0
+  Duplication ratio: 0.999
+  Genome fraction (%): 12.822
+  L50: 8.0
+  L75: 15.0
+  LA50: '-'
+  LA75: '-'
+  LG50: 9.0
+  LG75: 20.0
+  LGA50: '-'
+  LGA75: '-'
+  Largest alignment: 53958.0
+  Largest contig: 830455.0
+  Misassembled contigs length: 0.0
+  N50: 251398.0
+  N75: 168381.0
+  NA50: '-'
+  NA75: '-'
+  NG50: 242772.0
+  NG75: 104116.0
+  NGA50: '-'
+  NGA75: '-'
+  Reference GC (%): 66.17
+  Reference length: 6791333.0
+  Total aligned length: 870020.0
+  Total length: 6132280.0
+  Total length (>= 0 bp): 6132280.0
+  Total length (>= 1000 bp): 6132280.0
+  Total length (>= 10000 bp): 6132280.0
+  Total length (>= 25000 bp): 6132280.0
+  Total length (>= 5000 bp): 6132280.0
+  Total length (>= 50000 bp): 5857667.0
+  Unaligned length: 5262260.0
+smartdenovo:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 36.0
+  '# contigs (>= 0 bp)': 36.0
+  '# contigs (>= 1000 bp)': 36.0
+  '# contigs (>= 10000 bp)': 36.0
+  '# contigs (>= 25000 bp)': 36.0
+  '# contigs (>= 5000 bp)': 36.0
+  '# contigs (>= 50000 bp)': 31.0
+  '# indels per 100 kbp': 3950.16
+  '# local misassemblies': 1.0
+  '# misassembled contigs': 0.0
+  '# misassemblies': 0.0
+  '# mismatches per 100 kbp': 3838.18
+  '# unaligned contigs': 11.0
+  '# unaligned contigs_partial': 23.0
+  '# unaligned mis. contigs': 16.0
+  Duplication ratio: 1.0
+  Genome fraction (%): 19.013
+  L50: 8.0
+  L75: 16.0
+  LA50: '-'
+  LA75: '-'
+  LG50: 9.0
+  LG75: 19.0
+  LGA50: '-'
+  LGA75: '-'
+  Largest alignment: 64673.0
+  Largest contig: 838434.0
+  Misassembled contigs length: 0.0
+  N50: 253872.0
+  N75: 118621.0
+  NA50: '-'
+  NA75: '-'
+  NG50: 244388.0
+  NG75: 114291.0
+  NGA50: '-'
+  NGA75: '-'
+  Reference GC (%): 66.17
+  Reference length: 6791333.0
+  Total aligned length: 1290598.0
+  Total length: 6292659.0
+  Total length (>= 0 bp): 6292659.0
+  Total length (>= 1000 bp): 6292659.0
+  Total length (>= 10000 bp): 6292659.0
+  Total length (>= 25000 bp): 6292659.0
+  Total length (>= 5000 bp): 6292659.0
+  Total length (>= 50000 bp): 6089741.0
+  Unaligned length: 5001467.0

@@ -1,0 +1,21 @@
+flye:
+  I/O in (MB/s): 2.27
+  I/O out (MB/s): 1752.59
+  Wall time: 0:37:07
+  mean CPU load (MB): 0.0
+  peak PSS (MB): 2555.09
+  peak USS (MB): 2554.32
+minimap2_miniasm:
+  I/O in (MB/s): 230.7
+  I/O out (MB/s): 0.01
+  Wall time: 0:01:25
+  mean CPU load (MB): 0.0
+  peak PSS (MB): 2335.35
+  peak USS (MB): 2334.85
+smartdenovo:
+  I/O in (MB/s): 10.39
+  I/O out (MB/s): 85.23
+  Wall time: 0:20:44
+  mean CPU load (MB): 0.0
+  peak PSS (MB): 378.8
+  peak USS (MB): 378.21

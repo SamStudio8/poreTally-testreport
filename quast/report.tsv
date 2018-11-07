@@ -1,0 +1,48 @@
+Assembly	smartdenovo	minimap2_miniasm	flye
+# contigs (>= 0 bp)	36	36	41
+# contigs (>= 1000 bp)	36	36	41
+# contigs (>= 5000 bp)	36	36	41
+# contigs (>= 10000 bp)	36	36	39
+# contigs (>= 25000 bp)	36	36	39
+# contigs (>= 50000 bp)	31	29	34
+Total length (>= 0 bp)	6292659	6132280	6620719
+Total length (>= 1000 bp)	6292659	6132280	6620719
+Total length (>= 5000 bp)	6292659	6132280	6620719
+Total length (>= 10000 bp)	6292659	6132280	6605704
+Total length (>= 25000 bp)	6292659	6132280	6605704
+Total length (>= 50000 bp)	6089741	5857667	6437812
+# contigs	36	36	41
+Largest contig	838434	830455	850194
+Total length	6292659	6132280	6620719
+Reference length	6791333	6791333	6791333
+Reference GC (%)	66.17	66.17	66.17
+N50	253872	251398	259261
+NG50	244388	242772	249468
+N75	118621	168381	121891
+NG75	114291	104116	119091
+L50	8	8	8
+LG50	9	9	9
+L75	16	15	17
+LG75	19	20	18
+# misassemblies	0	0	1
+# misassembled contigs	0	0	1
+Misassembled contigs length	0	0	140255
+# local misassemblies	1	0	4
+# unaligned mis. contigs	16	12	0
+# unaligned contigs	11 + 23 part	10 + 26 part	0 + 8 part
+Unaligned length	5001467	5262260	36502
+Genome fraction (%)	19.013	12.822	95.845
+Duplication ratio	1.000	0.999	1.012
+# N's per 100 kbp	0.00	0.00	0.00
+# mismatches per 100 kbp	3838.18	3758.34	132.84
+# indels per 100 kbp	3950.16	3990.65	677.73
+Largest alignment	64673	53958	849658
+Total aligned length	1290598	870020	6576114
+NA50	-	-	259217
+NGA50	-	-	249435
+NA75	-	-	118594
+NGA75	-	-	118554
+LA50	-	-	8
+LGA50	-	-	9
+LA75	-	-	17
+LGA75	-	-	18

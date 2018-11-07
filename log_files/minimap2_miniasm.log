@@ -1,0 +1,44 @@
+START METHODS PRINTING
+description: Minimap2 is a fast all-vs-all mapper of reads that relies on sketches of sequences, composed of minimizers. Miniasm uses the found overlaps to construct an assembly graph. As a consensus step is lacking in this pipeline, post-assembly polishing is often required.
+versions:
+  miniasm: 0.3-r179
+  minimap2: 2.14-r883
+END METHODS PRINTING
+[M::main] ===> Step 1: reading read mappings <===
+[M::ma_hit_read::0.620*1.00] read 310487 hits; stored 560214 hits and 10000 sequences (193843265 bp)
+[M::main] ===> Step 2: 1-pass (crude) read selection <===
+[M::ma_hit_sub::0.709*1.00] 9976 query sequences remain after sub
+[M::ma_hit_cut::0.720*1.00] 557377 hits remain after cut
+[M::ma_hit_flt::0.730*1.00] 544624 hits remain after filtering; crude coverage after filtering: 29.89
+[M::main] ===> Step 3: 2-pass (fine) read selection <===
+[M::ma_hit_sub::0.759*1.00] 9976 query sequences remain after sub
+[M::ma_hit_cut::0.769*1.00] 544452 hits remain after cut
+[M::ma_hit_contained::0.781*1.00] 1553 sequences and 16628 hits remain after containment removal
+[M::main] ===> Step 4: graph cleaning <===
+[M::ma_sg_gen] read 16383 arcs
+[M::main] ===> Step 4.1: transitive reduction <===
+[M::asg_arc_del_trans] transitively reduced 13014 arcs
+[M::asg_arc_del_multi] removed 0 multi-arcs
+[M::asg_arc_del_asymm] removed 203 asymmetric arcs
+[M::main] ===> Step 4.2: initial tip cutting and bubble popping <===
+[M::asg_cut_tip] cut 43 tips
+[M::asg_pop_bubble] popped 44 bubbles and trimmed 2 tips
+[M::main] ===> Step 4.3: cutting short overlaps (3 rounds in total) <===
+[M::asg_arc_del_short] removed 0 short overlaps
+[M::asg_arc_del_short] removed 0 short overlaps
+[M::asg_arc_del_multi] removed 0 multi-arcs
+[M::asg_arc_del_asymm] removed 2 asymmetric arcs
+[M::asg_arc_del_short] removed 2 short overlaps
+[M::asg_cut_tip] cut 1 tips
+[M::asg_pop_bubble] popped 0 bubbles and trimmed 0 tips
+[M::main] ===> Step 4.4: removing short internal sequences and bi-loops <===
+[M::asg_cut_internal] cut 0 internal sequences
+[M::asg_cut_biloop] cut 0 small bi-loops
+[M::asg_cut_tip] cut 0 tips
+[M::asg_pop_bubble] popped 0 bubbles and trimmed 0 tips
+[M::main] ===> Step 4.5: aggressively cutting short overlaps <===
+[M::asg_arc_del_short] removed 0 short overlaps
+[M::main] ===> Step 5: generating unitigs <===
+[M::main] Version: 0.3-r179
+[M::main] CMD: miniasm -f /home/ubuntu/pt/all_reads.fastq minimap2.paf.gz
+[M::main] Real time: 1.422 sec; CPU: 1.420 sec
